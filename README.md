@@ -26,7 +26,7 @@ Frontend     React · Next.js · Tailwind CSS
 Backend      FastAPI · Node.js · REST APIs
 AI/ML        LangChain · Gemini API · RAG · Agentic AI
 Databases    PostgreSQL · Pinecone · Prisma
-Cloud        AWS · Azure · GCP · Docker · Vercel
+Cloud        AWS · Azure · GCP · Docker
 ```
 
 ---
